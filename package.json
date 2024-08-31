@@ -9,7 +9,7 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Deepa",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
