@@ -2,7 +2,7 @@ import express from "express";
 import cors from "cors";
 import dotenv from "dotenv";
 import connectDB from "./Database/config.js";
-import userRouter from "./Routers/userRoute.js";
+import userRouter from "./Routers/userRouter.js";
 
 dotenv.config();
 const app = express();
@@ -17,6 +17,8 @@ app.use(
 );
 //Db connection
 connectDB();
+//Db connection
+connectDB();
 //Default route
 app.get("/", (req, res) => {
   res.status(200).send("Hi welcome to Culineries API");
@@ -28,3 +30,8 @@ app.use("/api/user", userRouter);
 app.listen(process.env.PORT, () => {
   console.log("App is started and running on the port");
 });
+
+//Db connection
+// connectDB();
+//Db connection
+// connectDB();
