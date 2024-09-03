@@ -6,7 +6,7 @@ The "Password Reset" project is a web application built using the MERN (MongoDB,
  
  ## Installation:
 
- npm install nodemailer
+            <h2>'npm install nodemailer'</h2>
 
  ## Requirements of Nodemailer:
 
@@ -67,11 +67,11 @@ To run the project locally:
 
 Live Demo : https://sparkly-wisp-415159.netlify.app/
 
-1. Clone the repository: git clone https://github.com/Vijayarajvijay/Password-Reset-BE
+1. Clone the repository: git clone https://github.com/Deepanagarjan/Backend-AUTHENTICATION
 
-2. Front  End code : https://github.com/Vijayarajvijay/Password-Reset-FE/tree/main
+2. Front  End code : https://github.com/Deepanagarjan/Frontend-AUTH
 
-3. Post Man Documentation Link : https://documenter.getpostman.com/view/30449043/2s9YeN3pPS
+3. Post Man Documentation Link : https://web.postman.co/workspace/fe270188-0260-471c-89c8-bd0053a27a93/documentation/37883192-5dd55213-19f1-4dce-8845-e9ad1ea82283
 
 4. Navigate to the project directory and install 
 dependencies: npm install
