@@ -1,8 +1,8 @@
-# Password-Reset
+# Password-Reset Backend
 
 The "Password Reset" project is a web application built using the MERN (MongoDB, Express.js, React, Node.js) stack that facilitates user authentication functionalities such as signup, login, and a password reset mechanism.
 
-Here i used <h1> Nodemailer</h1> module for Node.js applications to allow easy as cake email sending. 
+ <h1> Nodemailer</h1> Module for Node.js applications to allow easy as cake email sending. 
  
  ## Installation:
 
@@ -13,6 +13,7 @@ Here i used <h1> Nodemailer</h1> module for Node.js applications to allow easy a
 1. Create a Nodemailer transporter using either SMTP or some other transport mechanism.
 2. Set up message options (who sends what to whom).
 3. Deliver the message object using the sendMail() method of your previously created transporter.
+4. Reference:https://nodemailer.com/
 
 ## Table of Contents
 
