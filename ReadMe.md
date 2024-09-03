@@ -6,7 +6,7 @@ The "Password Reset" project is a web application built using the MERN (MongoDB,
  
  ## Installation:
 
-            <h2>'npm install nodemailer'</h2>
+            'npm install nodemailer'
 
  ## Requirements of Nodemailer:
 
@@ -56,7 +56,7 @@ The project focuses on providing a secure and user-friendly system for managing 
 
 ## Technologies Used:
 
-* Frontend: React
+* Frontend: Reactjs
 * Backend: Node.js, Express.js
 * Database: MongoDB
 * Additional Libraries/Tools: Node Mailer (for sending emails), bcrypt (for password hashing), etc.
