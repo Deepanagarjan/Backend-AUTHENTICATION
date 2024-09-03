@@ -65,7 +65,7 @@ The project focuses on providing a secure and user-friendly system for managing 
 
 To run the project locally:
 
-Live Demo : https://sparkly-wisp-415159.netlify.app/
+Live Demo : https://backend-passwordreset-auth.onrender.com
 
 1. Clone the repository: git clone https://github.com/Deepanagarjan/Backend-AUTHENTICATION
 
